@@ -1,5 +1,5 @@
 # carla_maps
-This is a repository for processing and storing map data for the CARLA simulator.
+This is a repository for processing and storing map data for the CARLA open source vehicle simulator.
 
 ## Making Custom Maps for CARLA 
 
