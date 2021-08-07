@@ -131,12 +131,13 @@ dmypy.json
 # file types ignored by TH
 *.tar.gz
 *.zip
-*.fbx
+*.fbx 
 *.blend
 *.blend*
-*.tif
+# *.tif # tracked by lfs
 
 # folders ignored by TH
-tools/
+tools/roadrunner/
 packages/dist/
+*_archive/
 
