@@ -128,8 +128,15 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# added by TH
+# file types ignored by TH
 *.tar.gz
+*.zip
 *.fbx
 *.blend
+*.blend*
+*.tif
+
+# folders ignored by TH
+tools/
+packages/dist/
 

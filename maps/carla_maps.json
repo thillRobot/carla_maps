@@ -1,9 +1,0 @@
-{
-"maps": [{
-"name": "test_map",
-"source": "./test_map/map.fbx",
-"use_carla_materials": true,
-"xodr": "./test_map/test_map.xodr"
-}],
-"props": []
-}
