@@ -141,3 +141,7 @@ tools/roadrunner/
 packages/dist/
 *_archive/
 
+# large image files
+*.tif
+*.TIF
+
